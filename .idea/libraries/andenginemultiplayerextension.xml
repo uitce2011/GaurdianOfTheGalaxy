@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="andenginemultiplayerextension">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gaurdianOfTheGalaxy/libs/andenginemultiplayerextension.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

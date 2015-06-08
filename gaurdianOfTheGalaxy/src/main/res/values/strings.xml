@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guardian Of The Galaxy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_id">810427992370414</string>
+    <string name="post_image">Post Image</string>
+    <string name="share_fb">Share</string>
+    <string name="play">PLAY</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="ok">OK</string>
+    <string name="hello_user">Hello %1$s!</string>
+    <string name="success">Success</string>
+    <string name="successfully_posted_post">Successfully posted \'%1$s\'.\nPost ID: %2$s</string>
+    <string name="error">Error</string>
+    <string name="photo_post">Photo Post</string>
+    <string name="player">Player %1$s %2$s</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">SignOut</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="get_name">get_name</string>
+    <string name="btn_share">Share on Google+</string>
+
+    <!-- Facebook share intent Strings -->
+    <string name="title_activity_facebook_share">Facebook</string>
+    <string name="facebook_default_text">Please enter your text here</string>
+    <string name="title_post_text">Write Post</string>
+    <string name="post_button_text">Post</string>
+    <string name="title_facebook_login">Facebook Login</string>
+    <string name="facebook_post_content_desc">Image to share</string>
+	<string name="app_package_name">uit.guardianofthegalaxy.app</string>
+
+</resources>

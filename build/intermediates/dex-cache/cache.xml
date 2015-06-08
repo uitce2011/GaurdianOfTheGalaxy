@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\libs\andenginephysicsbox2dextension.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fa80b2f7e0c0fee92c11fa166908cd49c6cc95c2">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\andenginephysicsbox2dextension-a747941df0de98ee35c11b1da85bedf110eefef8.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\libs\andengine.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3ee265a83b5b37d55289d5e73abf5d1553b6b119">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\andengine-ca8f206a34fd7bab1652e1ee21ff179e2da8ff03.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\libs\andenginemultiplayerextension.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bfddb901d0ef4880944855e8f860e0bbdf05ca55">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\andenginemultiplayerextension-4ecad73402d8c2984ba26807bb9fa2dd3a4e9146.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\classes-57e51cdadd2a57a7c9b59a602a2359d11d129217.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\libs\andengineaugmentedrealityextension.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77deab02117fb12fbb4b0f8dce3c8f8144c158db">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\andengineaugmentedrealityextension-64a979779e681197341179d47e8516f18dfbe718.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\classes-627deaf1492a43e24ded31b821e1a9295fd35e8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-946dbb0c85bc89ba4fac7069a5b0fd3c1e5f0eb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5531cb41e35c81a051a274945542f6b31e4c97e">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\classes-601f021565bdeb3423acb32a23d090955fdd0287.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\libs\andenginelivewallpaperextension.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5a8bb38f23ab0d6bb7985e10339714c621cd5530">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\andenginelivewallpaperextension-36ef03ac46519e837fc903a3a19459e49100a6a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\classes-e48a763fa8bb888c673559140f0b6dc254ec1042.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\libs\andenginemodplayerextension.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="08dc6a04c31977753c042ecd115f350e092e45df">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\andenginemodplayerextension-2012d8a462af4e1bb0413359cbef44a0fe4945e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\libs\andenginemultitouchextension.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ce9f7426d7ecfe0bdb869465b51028df80963aaa">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\andenginemultitouchextension-45f35da484ff8ef2b7917ced447d12c6a89887ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\libs\andenginesvgtextureregionextension.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="093d06562013454e8dd232fe1dc101364e873c1d">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\andenginesvgtextureregionextension-bbfed847fb3192d31ea55dc592f48d183e12dc5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-695c53f85c5663cdf5b81f4ee483ab4cb506e490.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\exploded-aar\GaurdianOfTheGalaxy\facebookSDK\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="30e7f6af8d29a3d2c97e0e1190675201584dc74e">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\classes-52c3f1e20e2b6cfb191e0ed74fc137c2f798417d.jar" />
+    </item>
+    <item
+        jar="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\exploded-aar\GaurdianOfTheGalaxy\facebookSDK\unspecified\libs\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="C:\Users\HieuTruong\AndroidStudioProjects\GaurdianOfTheGalaxy\gaurdianOfTheGalaxy\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-20d5786192357bb19f5ad770481f86363b5b6f73.jar" />
+    </item>
+
+</items>

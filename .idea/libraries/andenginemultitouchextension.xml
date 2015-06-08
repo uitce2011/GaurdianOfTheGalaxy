@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="andenginemultitouchextension">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gaurdianOfTheGalaxy/libs/andenginemultitouchextension.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
